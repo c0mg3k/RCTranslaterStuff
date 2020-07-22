@@ -1,0 +1,11 @@
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\obj\Debug\netcoreapp3.1\RCObjectParser.csprojAssemblyReference.cache
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\obj\Debug\netcoreapp3.1\RCObjectParser.AssemblyInfoInputs.cache
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\obj\Debug\netcoreapp3.1\RCObjectParser.AssemblyInfo.cs
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\bin\Debug\netcoreapp3.1\RCObjectParser.exe
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\bin\Debug\netcoreapp3.1\RCObjectParser.deps.json
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\bin\Debug\netcoreapp3.1\RCObjectParser.runtimeconfig.json
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\bin\Debug\netcoreapp3.1\RCObjectParser.runtimeconfig.dev.json
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\bin\Debug\netcoreapp3.1\RCObjectParser.dll
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\bin\Debug\netcoreapp3.1\RCObjectParser.pdb
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\obj\Debug\netcoreapp3.1\RCObjectParser.dll
+C:\programming\sandbox\LPP\RapidConnect\RCObjectParser\RCObjectParser\RCObjectParser\obj\Debug\netcoreapp3.1\RCObjectParser.pdb
